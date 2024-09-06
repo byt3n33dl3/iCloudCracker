@@ -24,6 +24,17 @@ It's been reported if icloud server responds with an error restart xampp or your
 -=Reports coming in that Server is now Patched with Rate Limiter=-
 -=Server Fully Patched, Discontinue use if you don't want to lock your account!!=-
 
+U S A G E
+usage: [-h] [-c] [--mojave] [-b folder]
+
+a script to crack the restriction passcode of an iDevice
+
+optional arguments:
+-h, --help            show this help message and exit
+-c, --cli             prompts user for input
+-m, --mojave              helps user run script on macOS mojave
+-b folder, --backup folder
+                    where backups are located
 
 What is this?
 A 100% Working iCloud Apple ID Dictionary attack that bypasses 
