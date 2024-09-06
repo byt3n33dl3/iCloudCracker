@@ -16,15 +16,16 @@ I merely observed and reported.
 Install: 
 Put in HtDocs Folder in your Xampp installation.
 Install curl for your OS
-Navigate to http://127.0.0.1/iCloudCracker/ in your web browser (preferably Firefox, Chrome, or Safari).
+Navigate to https://github.com/pxcs/iCloudCracker in your web browser (preferably Firefox, Chrome, or Safari).
 Wordlist.txt is from iBrute and it satisfies iCloud password Requirements
 It's been reported if icloud server responds with an error restart xampp or your computer
-
 
 -=Reports coming in that Server is now Patched with Rate Limiter=-
 -=Server Fully Patched, Discontinue use if you don't want to lock your account!!=-
 
+
 U S A G E
+
 usage: [-h] [-c] [--mojave] [-b folder]
 
 a script to crack the restriction passcode of an iDevice
@@ -54,4 +55,4 @@ privately used for malicious or nefarious activities, I publicly disclosed it so
 @pxcs
 
 Note: 
-Educational Pusposes Only
+Educational Pusposes Only!
